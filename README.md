@@ -1,5 +1,9 @@
 # Hero API
 
+[Документация `FastAPI`](https://fastapi.tiangolo.com/)
+[Документация `SQLModel`](https://sqlmodel.tiangolo.com/)
+
+
 Это API для управления героями, разработанное с использованием `FastAPI` и `SQLModel`.
 
 ## Клонирование репозитория
